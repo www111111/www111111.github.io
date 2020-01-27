@@ -968,3 +968,6 @@ RACMulticastConnection *connect = [signal publish];
 
 - 使用`rac_liftSelector`时 `@selector(updateWithR1:R2:) `中的方 **参数个数** 要与 **signal个数** 相同，否则会被断言Crash！
 
+
+![image](https://upload-images.jianshu.io/upload_images/4340772-1eb43f1b527596e8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/500/format/webp)
+
