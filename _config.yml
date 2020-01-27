@@ -1,7 +1,7 @@
 # Site settings
 title: Application data
 SEOTitle: Chandra的博客 | BY Blog
-header-img: img/post-bg-desk.jpg
+# header-img: img/post-bg-desk.jpg
 email: chandra@gmail.com
 description: "Every failure is leading towards success."
 keyword: "Chandra的博客, Chandra, python, 数据, 分析, 大数据"
